@@ -1,6 +1,6 @@
 ## BookCatalog
 
-Katalog książek pokazujący podstawowe funkcjonalności operacji na bazie danych (CRUD).
+Aplikacja, którą stworzyłem to katalog książek pokazujący podstawowe funkcjonalności operacji na bazie danych (CRUD).
 
 **C** - Create - możliwość dodania książki do katalogu.
 
@@ -8,7 +8,7 @@ Katalog książek pokazujący podstawowe funkcjonalności operacji na bazie dany
 
 **U** - Update - Możliwość edycji wszystkich/pojedynczych pól modelu danej książki.
 
-**D** - Delete - możliwość usuwania pozycji z katalogu (po ostatecznym potwierdzeniu wymuszonym przez GUI).
+**D** - Delete - możliwość usuwania pozycji z katalogu.
 
 
 ## Jak odpalić projekt lokalnie
